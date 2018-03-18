@@ -1600,3 +1600,11 @@
 a.play-store-badge {
 		border-bottom: none;
 }
+
+.profile-photo {
+	display: block;
+	max-width: 150px;
+	margin: 30px auto;
+	border-radius: 100%;
+	border: 3px solid #FFF;
+}
